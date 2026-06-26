@@ -1,4 +1,4 @@
-module github.com/vito/gosub
+module github.com/geofffranks/gosub
 
 go 1.12
 
